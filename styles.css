@@ -29,7 +29,7 @@ header {
   margin-left: 1rem;
   width: 77px;
   height: 24px;
-  font-family: 'Roboto'sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -44,7 +44,7 @@ header {
   margin-left: 1rem;
   width: 327px;
   height: 124px;
-  font-family: 'Crete Round'sans-serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -57,7 +57,7 @@ h2 {
   margin-left: 1rem;
   width: 327px;
   height: 1px;
-  font-family: 'Roboto'sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -73,7 +73,7 @@ p {
   margin-left: 1rem;
   width: 327px;
   height: 123px;
-  font-family: 'Poppins'sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -111,7 +111,7 @@ h3 {
   border-bottom: 0.5px solid black;
   width: 327px;
   height: 83px;
-  font-family: 'Crete Round'sans-serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
@@ -136,7 +136,7 @@ h4 {
   width: 327px;
   height: 36px;
   margin-left: 1rem;
-  font-family: 'Crete Round'sans-serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -151,7 +151,7 @@ h4 {
   justify-content: flex-start;
   width: 327px;
   height: 147px;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -206,7 +206,7 @@ h4 {
 h5 {
   width: 100px;
   height: 24px;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -233,7 +233,7 @@ h5 {
 h6 {
   width: 295px;
   height: 20px;
-  font-family: 'Crete Round'sans-serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -246,7 +246,7 @@ h6 {
 .Three {
   width: 295px;
   height: 80px;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -277,7 +277,7 @@ h6 {
   top: 0;
   background: #ff6b00;
   text-align: center;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -292,7 +292,7 @@ h6 {
 .head7 {
   width: 100px;
   height: 24px;
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
